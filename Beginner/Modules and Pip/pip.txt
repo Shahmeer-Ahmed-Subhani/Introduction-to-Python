@@ -1,0 +1,6 @@
+https://python-docx.readthedocs.io/en/latest/user/install.html
+
+Pip is a program. Pip is used to install Modules
+
+use pip install in the command prompt to install exterior Modules
+

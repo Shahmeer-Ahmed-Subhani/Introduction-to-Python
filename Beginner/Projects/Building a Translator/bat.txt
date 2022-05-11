@@ -1,0 +1,7 @@
+Giraffe Academy
+vowels -> g
+------------------
+
+dog -> dgg
+cat -> cgt
+
